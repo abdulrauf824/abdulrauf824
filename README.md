@@ -23,30 +23,16 @@ I’ve contributed to projects like:
 
 ---
 
-## 🚀 Professional Skills
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=angular,react,nextjs,nodejs,mongodb,ts,js,tailwind,html,css,vscode,git,github,figma" />
-</p>
-
----
 ## 🚀 Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=angular,react,nextjs,nodejs,mongodb,ts,js,tailwind,html,css,vscode,git,github,figma&perline=7" />
 </p>
+
 ---
-## 🚀 Frontend
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=angular,react,nextjs,ts,js,tailwind,html,css&perline=8" />
-</p>
 
-## 🔧 Backend & Tools
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,mongodb,vscode,git,github,figma&perline=8" />
-</p>
 
 
 ## 📈 GitHub Stats & Activity
