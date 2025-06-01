@@ -24,15 +24,15 @@ I'm a passionate **Full Stack Developer** specializing in modern web technologie
 ## ⏳ Code Time & Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abdulraufkhan824&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdulraufkhan824&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=abdulrauf824&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdulrauf824&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 ---
 
 ## 📊 This Week I Spent My Time On
 
-![wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=abdulraufkhan824&theme=tokyonight)
+![wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=abdulrauf824&theme=tokyonight)
 
 ---
 
