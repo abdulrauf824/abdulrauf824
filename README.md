@@ -15,11 +15,6 @@ I'm a passionate **Full Stack Developer** specializing in modern web technologie
 
 ---
 
-## 🎧 Currently Listening on Spotify
-
-[![Spotify](https://novatorem-rounak.vercel.app/api/spotify)](https://open.spotify.com/user/abdulraufkhan824)
-
-
 ## ⏳ GitHub Stats & Coding Activity
 
 <p align="center">
@@ -29,11 +24,6 @@ I'm a passionate **Full Stack Developer** specializing in modern web technologie
 
 ---
 
-## 📊 Weekly Coding Overview
-
-![wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=abdulrauf824&theme=tokyonight)
-
----
 
 ## 🕒 Most Productive Day
 
