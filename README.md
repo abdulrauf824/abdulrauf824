@@ -6,7 +6,7 @@ I'm a dedicated Full Stack Developer specializing in modern web technologies inc
 
 ## 🧑‍💻 About Me
 
-- 🔭 Currently focused on developing high-quality, production-ready applications using **Next.js**, **Angular**, and **Node.js**.  
+- 🔭 Currently focused on developing high-quality, production-ready applications using **Next.js**, **React**, and **Node.js**.  
 - 🌱 Constantly learning new tools and frameworks to stay ahead in the fast-evolving web development landscape.  
 - 👯 Open to collaborating on innovative projects, open-source contributions, and mentoring junior developers.  
 - 🤝 Strong believer in clean code, testing, and best practices to ensure software quality and reliability.  
