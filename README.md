@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Abdul Rauf Khan
 
-Welcome to my portfolio! I'm a passionate **Full Stack Developer** specializing in modern web technologies like Angular, React, and Node.js. I love crafting elegant, performant, and user-friendly web applications.
+I'm a passionate **Full Stack Developer** specializing in modern web technologies like Angular, React, and Node.js. I love crafting elegant, performant, and user-friendly web applications.
 
 ---
 
@@ -77,11 +77,6 @@ These are the technologies I actively use and love working with:
 
 ---
 
-## 📺 GIF Time!
-
-![Coding GIF](https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif)
-
----
 
 ## 📫 Connect with me
 
