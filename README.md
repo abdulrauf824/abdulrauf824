@@ -1,27 +1,27 @@
 # 👋 Hi, I'm Abdul Rauf Khan
 
-I'm a passionate **Full Stack Developer** specializing in modern web technologies like Angular, React, and Node.js. I love crafting elegant, performant, and user-friendly web applications.
+I'm a passionate **Full Stack Developer** specializing in modern web technologies like Angular, React, and Node.js. I love crafting elegant, performant, and user-friendly web applications that make a difference.
 
 ---
 
 ## 🧑‍💻 About Me
 
-- 🔭 I’m currently working on building scalable web apps with Next.js and Angular.  
-- 🌱 I’m continuously learning and exploring new technologies and best practices.  
-- 👯 I’m looking to collaborate on exciting projects and open source.  
-- 🤔 I’m always up for discussing tech, ideas, or coffee ☕!  
-- 📫 How to reach me: [abdulraufkhan824@gmail.com](mailto:abdulraufkhan824@gmail.com)  
-- ⚡ Fun fact: I’m a night owl 🦉 — coding is best when the world is quiet.
+- 🔭 Currently building scalable, high-performance web apps using **Next.js** and **Angular**.  
+- 🌱 Constantly learning and experimenting with new technologies and best practices.  
+- 👯 Open to collaborating on innovative projects and open source contributions.  
+- 🤔 Always excited to discuss tech, ideas, or share a coffee ☕!  
+- 📫 Reach me anytime at: [abdulraufkhan824@gmail.com](mailto:abdulraufkhan824@gmail.com)  
+- ⚡ Fun fact: I'm a dedicated **night owl** 🦉 — coding thrives in the quiet hours.
 
 ---
 
-## 🎧 Now Playing on Spotify
+## 🎧 Currently Listening on Spotify
 
 ![Spotify Now Playing](https://spotify-now-playing-git-masterabdulraufkhan824.vercel.app/api/spotify)
 
 ---
 
-## ⏳ Code Time & Stats
+## ⏳ GitHub Stats & Coding Activity
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=abdulrauf824&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
@@ -30,55 +30,52 @@ I'm a passionate **Full Stack Developer** specializing in modern web technologie
 
 ---
 
-## 📊 This Week I Spent My Time On
+## 📊 Weekly Coding Overview
 
 ![wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=abdulrauf824&theme=tokyonight)
 
 ---
 
-## 🕒 I’m Most Productive On
+## 🕒 Most Productive Day
 
-**Thursday** — The best day for code flow and deep work!
+**Thursday** — The day when code flows effortlessly and deep work happens!
 
 ---
 
-## 💻 Languages & Tools
+## 💻 Languages & Tools I Use
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=angular,react,nextjs,nodejs,mongodb,ts,js,tailwind,html,css,vscode,git,github,figma" alt="Languages and Tools" />
 </p>
 
-These are the technologies I actively use and love working with:
-
-| Technology       | Icon                              | Description                        |
-|------------------|----------------------------------|----------------------------------|
-| Angular          | 🔺 / <img src="https://skillicons.dev/icons?i=angular" width="18" />    | Frontend framework                |
-| React.js         | ⚛️ / <img src="https://skillicons.dev/icons?i=react" width="18" />      | Frontend library                  |
-| Next.js          | 🚀 / <img src="https://skillicons.dev/icons?i=nextjs" width="18" />     | React framework for SSR           |
-| Node.js          | 🟢 / <img src="https://skillicons.dev/icons?i=nodejs" width="18" />     | Backend runtime                  |
-| MongoDB          | 🍃 / <img src="https://skillicons.dev/icons?i=mongodb" width="18" />    | NoSQL database                   |
-| TypeScript       | 📘 / <img src="https://skillicons.dev/icons?i=ts" width="18" />         | Typed superset of JavaScript     |
-| JavaScript       | 🟨 / <img src="https://skillicons.dev/icons?i=js" width="18" />         | Core web programming language    |
-| TailwindCSS      | 🌬️ / <img src="https://skillicons.dev/icons?i=tailwind" width="18" />  | Utility-first CSS framework      |
-| HTML5            | 🟠 / <img src="https://skillicons.dev/icons?i=html" width="18" />       | Markup language                 |
-| CSS3             | 🎨 / <img src="https://skillicons.dev/icons?i=css" width="18" />        | Styling language                |
-| VSCode           | 🖥️ / <img src="https://skillicons.dev/icons?i=vscode" width="18" />    | Code editor                    |
-| Git              | 🌳 / <img src="https://skillicons.dev/icons?i=git" width="18" />        | Version control system          |
-| GitHub           | 🐙 / <img src="https://skillicons.dev/icons?i=github" width="18" />     | Code hosting platform            |
-| Figma            | 🎨 / <img src="https://skillicons.dev/icons?i=figma" width="18" />      | UI/UX Design                    |
+| Technology       | Icon                                                                 | Description                     |
+|------------------|----------------------------------------------------------------------|---------------------------------|
+| Angular          | <img src="https://skillicons.dev/icons?i=angular" width="18" />      | Powerful frontend framework      |
+| React.js         | <img src="https://skillicons.dev/icons?i=react" width="18" />        | Popular frontend library         |
+| Next.js          | <img src="https://skillicons.dev/icons?i=nextjs" width="18" />       | React framework for SSR & SSG    |
+| Node.js          | <img src="https://skillicons.dev/icons?i=nodejs" width="18" />       | Scalable backend runtime         |
+| MongoDB          | <img src="https://skillicons.dev/icons?i=mongodb" width="18" />      | Flexible NoSQL database          |
+| TypeScript       | <img src="https://skillicons.dev/icons?i=ts" width="18" />           | Typed superset of JavaScript     |
+| JavaScript       | <img src="https://skillicons.dev/icons?i=js" width="18" />           | Core web programming language    |
+| TailwindCSS      | <img src="https://skillicons.dev/icons?i=tailwind" width="18" />     | Utility-first CSS framework      |
+| HTML5            | <img src="https://skillicons.dev/icons?i=html" width="18" />         | Markup language                 |
+| CSS3             | <img src="https://skillicons.dev/icons?i=css" width="18" />          | Styling language                |
+| VSCode           | <img src="https://skillicons.dev/icons?i=vscode" width="18" />       | Preferred code editor           |
+| Git              | <img src="https://skillicons.dev/icons?i=git" width="18" />          | Version control system          |
+| GitHub           | <img src="https://skillicons.dev/icons?i=github" width="18" />       | Code hosting & collaboration    |
+| Figma            | <img src="https://skillicons.dev/icons?i=figma" width="18" />        | UI/UX design and prototyping    |
 
 ---
 
-## 🌟 Fun Stats
+## 🌟 Fun Facts & Coding Habits
 
-- I mostly code in **HTML**  
-- I'm a **night owl 🦉** — coding flows best late at night  
-- Consistently push quality commits and learn daily
+- Most of my coding is done in **HTML** — structuring the web beautifully.  
+- I'm a **night owl 🦉**, with my best ideas and code flowing late at night.  
+- I consistently commit quality code and keep learning every day.
 
 ---
 
-
-## 📫 Connect with me
+## 📫 Let's Connect
 
 - [LinkedIn](https://linkedin.com/in/abdulraufkhan824)  
 - [GitHub](https://github.com/abdulraufkhan824)  
@@ -87,9 +84,8 @@ These are the technologies I actively use and love working with:
 
 ---
 
-Thank you for visiting my profile! Feel free to explore my repositories and get in touch for collaboration or questions.
+Thank you for visiting my profile! Feel free to explore my projects or reach out to collaborate.
 
 ---
 
 *Made with ❤️ by Abdul Rauf Khan*
-
