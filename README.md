@@ -1,21 +1,42 @@
 # 👋 Hi, I'm Abdul Rauf Khan
 
-I'm a passionate **Full Stack Developer** specializing in modern web technologies like Angular, React, and Node.js. I love crafting elegant, performant, and user-friendly web applications that make a difference.
+I'm a dedicated **Full Stack Developer** with over 1.5 years of professional experience, specializing in modern web technologies including **Angular**, **React**, **Node.js**, and the **MERN stack**. I am passionate about building scalable, maintainable, and performant web applications that deliver excellent user experiences.
 
 ---
 
 ## 🧑‍💻 About Me
 
-- 🔭 Currently building scalable, high-performance web apps using **Next.js** and **Angular**.  
-- 🌱 Constantly learning and experimenting with new technologies and best practices.  
-- 👯 Open to collaborating on innovative projects and open source contributions.  
-- 🤔 Always excited to discuss tech, ideas, or share a coffee ☕!  
-- 📫 Reach me anytime at: [abdulraufkhan824@gmail.com](mailto:abdulraufkhan824@gmail.com)  
-- ⚡ Fun fact: I'm a dedicated **night owl** 🦉 — coding thrives in the quiet hours.
+- 🔭 Currently focused on developing high-quality, production-ready applications using **Next.js**, **Angular**, and **Node.js**.  
+- 🌱 Constantly learning new tools and frameworks to stay ahead in the fast-evolving web development landscape.  
+- 👯 Open to collaborating on innovative projects, open-source contributions, and mentoring junior developers.  
+- 🤝 Strong believer in clean code, testing, and best practices to ensure software quality and reliability.  
+- 📫 Reach out anytime: [abdulraufkhan824@gmail.com](mailto:abdulraufkhan824@gmail.com)  
+- ⚡ Fun fact: I'm a night owl 🦉 — I find my creativity and focus peak during late hours.
 
 ---
 
-## ⏳ GitHub Stats & Coding Activity
+## 🚀 Professional Skills
+
+| Technology       | Icon                                                                 | Description                              |
+|------------------|----------------------------------------------------------------------|------------------------------------------|
+| Angular          | <img src="https://skillicons.dev/icons?i=angular" width="18" />      | Robust frontend framework for enterprise-grade apps |
+| React.js         | <img src="https://skillicons.dev/icons?i=react" width="18" />        | Flexible UI library for modern web apps  |
+| Next.js          | <img src="https://skillicons.dev/icons?i=nextjs" width="18" />       | React framework with SSR and static generation support |
+| Node.js          | <img src="https://skillicons.dev/icons?i=nodejs" width="18" />       | Scalable backend runtime for APIs and services |
+| MongoDB          | <img src="https://skillicons.dev/icons?i=mongodb" width="18" />      | NoSQL database for flexible data modeling |
+| TypeScript       | <img src="https://skillicons.dev/icons?i=ts" width="18" />           | Typed superset of JavaScript for safer code |
+| JavaScript       | <img src="https://skillicons.dev/icons?i=js" width="18" />           | Core language of the web                  |
+| TailwindCSS      | <img src="https://skillicons.dev/icons?i=tailwind" width="18" />     | Utility-first CSS framework               |
+| HTML5            | <img src="https://skillicons.dev/icons?i=html" width="18" />         | Web page structure and semantics         |
+| CSS3             | <img src="https://skillicons.dev/icons?i=css" width="18" />          | Styling and layout                        |
+| VSCode           | <img src="https://skillicons.dev/icons?i=vscode" width="18" />       | Primary development environment          |
+| Git              | <img src="https://skillicons.dev/icons?i=git" width="18" />          | Version control and collaboration tool   |
+| GitHub           | <img src="https://skillicons.dev/icons?i=github" width="18" />       | Code hosting, reviews, and CI/CD         |
+| Figma            | <img src="https://skillicons.dev/icons?i=figma" width="18" />        | UI/UX design and prototyping             |
+
+---
+
+## 📈 GitHub Stats & Coding Activity
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=abdulrauf824&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
@@ -24,45 +45,20 @@ I'm a passionate **Full Stack Developer** specializing in modern web technologie
 
 ---
 
+## 📅 Productivity & Work Style
 
-## 🕒 Most Productive Day
-
-**Thursday** — The day when code flows effortlessly and deep work happens!
-
----
-
-## 💻 Languages & Tools I Use
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=angular,react,nextjs,nodejs,mongodb,ts,js,tailwind,html,css,vscode,git,github,figma" alt="Languages and Tools" />
-</p>
-
-| Technology       | Icon                                                                 | Description                     |
-|------------------|----------------------------------------------------------------------|---------------------------------|
-| Angular          | <img src="https://skillicons.dev/icons?i=angular" width="18" />      | Powerful frontend framework      |
-| React.js         | <img src="https://skillicons.dev/icons?i=react" width="18" />        | Popular frontend library         |
-| Next.js          | <img src="https://skillicons.dev/icons?i=nextjs" width="18" />       | React framework for SSR & SSG    |
-| Node.js          | <img src="https://skillicons.dev/icons?i=nodejs" width="18" />       | Scalable backend runtime         |
-| MongoDB          | <img src="https://skillicons.dev/icons?i=mongodb" width="18" />      | Flexible NoSQL database          |
-| TypeScript       | <img src="https://skillicons.dev/icons?i=ts" width="18" />           | Typed superset of JavaScript     |
-| JavaScript       | <img src="https://skillicons.dev/icons?i=js" width="18" />           | Core web programming language    |
-| TailwindCSS      | <img src="https://skillicons.dev/icons?i=tailwind" width="18" />     | Utility-first CSS framework      |
-| HTML5            | <img src="https://skillicons.dev/icons?i=html" width="18" />         | Markup language                 |
-| CSS3             | <img src="https://skillicons.dev/icons?i=css" width="18" />          | Styling language                |
-| VSCode           | <img src="https://skillicons.dev/icons?i=vscode" width="18" />       | Preferred code editor           |
-| Git              | <img src="https://skillicons.dev/icons?i=git" width="18" />          | Version control system          |
-| GitHub           | <img src="https://skillicons.dev/icons?i=github" width="18" />       | Code hosting & collaboration    |
-| Figma            | <img src="https://skillicons.dev/icons?i=figma" width="18" />        | UI/UX design and prototyping    |
+- 🕒 Most productive day: **Thursday** — deep focus and complex problem-solving.  
+- 🛠️ Practice continuous integration, test-driven development, and code reviews to deliver maintainable solutions.  
+- 🚀 Passionate about learning new technologies and frameworks to improve software quality and developer efficiency.
 
 ---
 
-## 🌟 Fun Facts & Coding Habits
+## 🌟 Fun Facts & Personal Traits
 
-- 💻 Most of my coding is done in **Angular** — building dynamic and robust web applications.
-- 🌙 I'm a **night owl** 🦉 — my best ideas and code flow late at night.
-- 📈 I consistently commit high-quality code and learn something new every day.
-- 🐙 Check out my GitHub contributions: [![GitHub](https://img.shields.io/badge/GitHub-abdulraufkhan824-181717?style=flat&logo=github)](https://github.com/abdulraufkhan824)
-
+- 💻 Extensive experience building real-world applications with **Angular** and **React**.  
+- 🌙 Night owl who thrives in quiet coding sessions.  
+- 🎯 Goal-oriented and detail-focused, always striving for clean and efficient code.  
+- 📚 Lifelong learner dedicated to staying current in the tech ecosystem.
 
 ---
 
@@ -75,7 +71,7 @@ I'm a passionate **Full Stack Developer** specializing in modern web technologie
 
 ---
 
-Thank you for visiting my profile! Feel free to explore my projects or reach out to collaborate.
+Thank you for visiting my profile! Feel free to explore my projects or reach out for collaboration opportunities.
 
 ---
 
