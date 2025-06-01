@@ -73,7 +73,7 @@ I’ve contributed to projects like:
 
 - [LinkedIn](https://linkedin.com/in/abdulraufkhan824)  
 - [GitHub](https://github.com/abdulraufk)  
-- [Twitter](https://twitter.com/abdulraufkhan824)  
+- [Twitter (X)](https://x.com/ABDULRAUF824?t=mvUtXgI-_ymweXLkdxV9rg&s=03)  
 - 📧 [Email Me](mailto:abdulraufkhan824@gmail.com)
 
 ---
