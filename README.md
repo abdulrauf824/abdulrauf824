@@ -21,7 +21,7 @@ I’ve contributed to projects like:
 - [TravelIndustrySolutions](https://travelindustrysolutions.com/)  
 - [ClearFunds](https://clearfunds.app/sign-in)
 
----
+
 
 ## 🚀 Tech Stack
 
