@@ -69,9 +69,11 @@ I'm a passionate **Full Stack Developer** specializing in modern web technologie
 
 ## 🌟 Fun Facts & Coding Habits
 
-- Most of my coding is done in Angular — building dynamic and robust web applications.
--I'm a night owl 🦉, with my best ideas and code flowing late at night.
--I consistently commit quality code and keep learning every day.
+- 💻 Most of my coding is done in **Angular** — building dynamic and robust web applications.
+- 🌙 I'm a **night owl** 🦉 — my best ideas and code flow late at night.
+- 📈 I consistently commit high-quality code and learn something new every day.
+- 🐙 Check out my GitHub contributions: [![GitHub](https://img.shields.io/badge/GitHub-abdulraufkhan824-181717?style=flat&logo=github)](https://github.com/abdulraufkhan824)
+
 
 ---
 
