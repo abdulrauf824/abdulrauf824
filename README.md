@@ -43,6 +43,10 @@ Feel free to reach out via [email](mailto:abdulraufkhan824@gmail.com) or connect
 | Figma        | <img src="https://skillicons.dev/icons?i=figma" width="18" />        | UI/UX design and prototyping                       |
 
 ---
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=angular,react,nextjs,nodejs,mongodb,ts,js,tailwind,html,css,vscode,git,github,figma" />
+</p>
+---
 
 ## 📈 GitHub Stats & Coding Activity
 
