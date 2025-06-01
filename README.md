@@ -1,7 +1,6 @@
 # 👋 Hi, I'm Abdul Rauf Khan
 
 I'm a dedicated Full Stack Developer specializing in modern web technologies including Angular, React, Node.js, and the MERN stack. I have worked on diverse projects ranging from healthcare management platforms to enterprise-grade web applications. My passion is building scalable, maintainable, and performant applications that deliver excellent user experiences.
-Hi, I'm **Abdul Rauf Khan**, a dedicated Full Stack Developer specializing in modern web technologies including Angular, React, Node.js, and the MERN stack. I have worked on diverse projects ranging from healthcare management platforms to enterprise-grade web applications. My passion is building scalable, maintainable, and performant applications that deliver excellent user experiences.
 
 Currently, I focus on developing high-quality applications with **Next.js**, **Angular**, and **Node.js**. I’ve contributed to projects like [Practice Management System](https://pms.hawkrevenue.com/#/login), [Seacrest Southwest](https://seacrest.hlxstaffing.com/), [Travel Industry Solutions](https://travelindustrysolutions.com/), and [ClearFunds](https://clearfunds.app/sign-in).
 
