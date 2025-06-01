@@ -1,4 +1,7 @@
 # 👋 Hi, I'm Abdul Rauf Khan
+<p align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=40&pause=2000&color=4A90E2&width=600&lines=%F0%9F%91%8B+Hi%2C+I'm+Abdul+Rauf+Khan" alt="Typing Animation" />
+</p>
 
 I'm a dedicated **Full Stack Developer** with over 1.5 years of professional experience, specializing in modern web technologies including **Angular**, **React**, **Node.js**, and the **MERN stack**. I am passionate about building scalable, maintainable, and performant web applications that deliver excellent user experiences.
 
