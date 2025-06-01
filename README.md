@@ -69,9 +69,9 @@ I'm a passionate **Full Stack Developer** specializing in modern web technologie
 
 ## 🌟 Fun Facts & Coding Habits
 
-- Most of my coding is done in **HTML** — structuring the web beautifully.  
-- I'm a **night owl 🦉**, with my best ideas and code flowing late at night.  
-- I consistently commit quality code and keep learning every day.
+- Most of my coding is done in Angular — building dynamic and robust web applications.
+-I'm a night owl 🦉, with my best ideas and code flowing late at night.
+-I consistently commit quality code and keep learning every day.
 
 ---
 
