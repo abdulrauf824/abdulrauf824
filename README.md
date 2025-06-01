@@ -56,14 +56,14 @@ I’ve contributed to projects like:
 </p>
 
 ---
-
-## 🔝 Top Contributed Repo
+## ✍️ Dev Quote
 
 <p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=abdulraufk&limit=5&theme=dark&combine_all_yearly_contributions=true" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=F70000&center=true&vCenter=true&multiline=true&repeat=true&width=600&lines=Code+is+like+humor.+When+you+have+to+explain+it,+it%E2%80%99s+bad.;Talk+is+cheap.+Show+me+the+code.;Programs+must+be+written+for+people+to+read.">
 </p>
 
 ---
+
 
 ## 📅 Productivity & Work Style
 
