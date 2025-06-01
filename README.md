@@ -36,7 +36,6 @@ I’ve contributed to projects like:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=abdulraufk&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdulraufk&theme=tokyonight" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulraufk&layout=compact&theme=tokyonight" alt="Top Langs" />
 </p>
 
 ---
@@ -48,22 +47,6 @@ I’ve contributed to projects like:
 </p>
 
 ---
-
-## ✍️ Dev Quote
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
-</p>
-
----
-## ✍️ Dev Quote
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=F70000&center=true&vCenter=true&multiline=true&repeat=true&width=600&lines=Code+is+like+humor.+When+you+have+to+explain+it,+it%E2%80%99s+bad.;Talk+is+cheap.+Show+me+the+code.;Programs+must+be+written+for+people+to+read.">
-</p>
-
----
-
 
 ## 📅 Productivity & Work Style
 
@@ -88,12 +71,6 @@ I’ve contributed to projects like:
 - [GitHub](https://github.com/abdulraufk)  
 - [Twitter](https://twitter.com/abdulraufkhan824)  
 - 📧 [Email Me](mailto:abdulraufkhan824@gmail.com)
-
----
-
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=abdulraufk&icon=0&color=0" />
-</p>
 
 ---
 
