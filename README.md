@@ -13,7 +13,7 @@ I'm a dedicated Full Stack Developer specializing in modern web technologies inc
 - 📫 Reach out anytime: [abdulraufkhan824@gmail.com](mailto:abdulraufkhan824@gmail.com)  
 - ⚡ Fun fact: I'm a night owl 🦉 — I find my creativity and focus peak during late hours.
 
-Currently, I focus on developing high-quality applications with **Next.js**, **Angular**, and **Node.js**. I’ve contributed to projects like [Practice Management System @HawkRevenue](https://pms.hawkrevenue.com/#/login), [Seacrest Southwest @HLXStaffing](https://seacrest.hlxstaffing.com/), [Travel Industry Solutions @TravelIndustrySolutions](https://travelindustrysolutions.com/), and [ClearFunds @ClearFunds](https://clearfunds.app/sign-in).
+Currently, I focus on developing high-quality applications with **Next.js**, **Angular**, and **Node.js**. I’ve contributed to projects like [@PracticeManagementSystem](https://pms.hawkrevenue.com/#/login), [@HLXStaffing](https://seacrest.hlxstaffing.com/), [@TravelIndustrySolutions](https://travelindustrysolutions.com/), and [@ClearFunds](https://clearfunds.app/sign-in).
 
 
 I’m always eager to collaborate on innovative projects, contribute to open-source, and mentor junior developers. Besides coding, I enjoy working late hours when my creativity and focus are at their peak.
