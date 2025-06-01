@@ -17,9 +17,8 @@ I'm a passionate **Full Stack Developer** specializing in modern web technologie
 
 ## 🎧 Currently Listening on Spotify
 
-![Spotify Now Playing](https://spotify-now-playing-git-masterabdulraufkhan824.vercel.app/api/spotify)
+[![Spotify](https://novatorem-rounak.vercel.app/api/spotify)](https://open.spotify.com/user/abdulraufkhan824)
 
----
 
 ## ⏳ GitHub Stats & Coding Activity
 
