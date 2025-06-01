@@ -2,7 +2,6 @@
 
 I'm a dedicated Full Stack Developer specializing in modern web technologies including Angular, React, Node.js, and the MERN stack. I have worked on diverse projects ranging from healthcare management platforms to enterprise-grade web applications. My passion is building scalable, maintainable, and performant applications that deliver excellent user experiences.
 
-
 ---
 
 ## 🧑‍💻 About Me
@@ -14,33 +13,32 @@ I'm a dedicated Full Stack Developer specializing in modern web technologies inc
 - 📫 Reach out anytime: [abdulraufkhan824@gmail.com](mailto:abdulraufkhan824@gmail.com)  
 - ⚡ Fun fact: I'm a night owl 🦉 — I find my creativity and focus peak during late hours.
 
-  Currently, I focus on developing high-quality applications with **Next.js**, **Angular**, and **Node.js**. I’ve contributed to projects like [Practice Management System](https://pms.hawkrevenue.com/#/login), [Seacrest Southwest](https://seacrest.hlxstaffing.com/), [Travel Industry Solutions](https://travelindustrysolutions.com/), and [ClearFunds](https://clearfunds.app/sign-in).
+Currently, I focus on developing high-quality applications with **Next.js**, **Angular**, and **Node.js**. I’ve contributed to projects like [Practice Management System](https://pms.hawkrevenue.com/#/login), [Seacrest Southwest](https://seacrest.hlxstaffing.com/), [Travel Industry Solutions](https://travelindustrysolutions.com/), and [ClearFunds](https://clearfunds.app/sign-in).
 
-I’m always eager to collaborate on innovative projects, open-source contributions, and mentor junior developers. Besides coding, I enjoy working late hours when my creativity and focus are at their peak.
+I’m always eager to collaborate on innovative projects, contribute to open-source, and mentor junior developers. Besides coding, I enjoy working late hours when my creativity and focus are at their peak.
 
 Feel free to reach out via [email](mailto:abdulraufkhan824@gmail.com) or connect on [LinkedIn](https://linkedin.com/in/abdulraufkhan824) and [GitHub](https://github.com/abdulraufk).
-
 
 ---
 
 ## 🚀 Professional Skills
 
-| Technology       | Icon                                                                 | Description                              |
-|------------------|----------------------------------------------------------------------|------------------------------------------|
-| Angular          | <img src="https://skillicons.dev/icons?i=angular" width="18" />      | Robust frontend framework for enterprise-grade apps |
-| React.js         | <img src="https://skillicons.dev/icons?i=react" width="18" />        | Flexible UI library for modern web apps  |
-| Next.js          | <img src="https://skillicons.dev/icons?i=nextjs" width="18" />       | React framework with SSR and static generation support |
-| Node.js          | <img src="https://skillicons.dev/icons?i=nodejs" width="18" />       | Scalable backend runtime for APIs and services |
-| MongoDB          | <img src="https://skillicons.dev/icons?i=mongodb" width="18" />      | NoSQL database for flexible data modeling |
-| TypeScript       | <img src="https://skillicons.dev/icons?i=ts" width="18" />           | Typed superset of JavaScript for safer code |
-| JavaScript       | <img src="https://skillicons.dev/icons?i=js" width="18" />           | Core language of the web                  |
-| TailwindCSS      | <img src="https://skillicons.dev/icons?i=tailwind" width="18" />     | Utility-first CSS framework               |
-| HTML5            | <img src="https://skillicons.dev/icons?i=html" width="18" />         | Web page structure and semantics         |
-| CSS3             | <img src="https://skillicons.dev/icons?i=css" width="18" />          | Styling and layout                        |
-| VSCode           | <img src="https://skillicons.dev/icons?i=vscode" width="18" />       | Primary development environment          |
-| Git              | <img src="https://skillicons.dev/icons?i=git" width="18" />          | Version control and collaboration tool   |
-| GitHub           | <img src="https://skillicons.dev/icons?i=github" width="18" />       | Code hosting, reviews, and CI/CD         |
-| Figma            | <img src="https://skillicons.dev/icons?i=figma" width="18" />        | UI/UX design and prototyping             |
+| Technology   | Icon                                                                 | Description                                      |
+|--------------|----------------------------------------------------------------------|------------------------------------------------|
+| Angular      | <img src="https://skillicons.dev/icons?i=angular" width="18" />      | Robust frontend framework for enterprise apps  |
+| React.js     | <img src="https://skillicons.dev/icons?i=react" width="18" />        | Flexible UI library for modern web apps         |
+| Next.js      | <img src="https://skillicons.dev/icons?i=nextjs" width="18" />       | React framework with SSR and static site generation |
+| Node.js      | <img src="https://skillicons.dev/icons?i=nodejs" width="18" />       | Scalable backend runtime for APIs and services  |
+| MongoDB      | <img src="https://skillicons.dev/icons?i=mongodb" width="18" />      | NoSQL database for flexible data modeling       |
+| TypeScript   | <img src="https://skillicons.dev/icons?i=ts" width="18" />           | Typed superset of JavaScript for safer code     |
+| JavaScript   | <img src="https://skillicons.dev/icons?i=js" width="18" />           | Core language of the web                          |
+| TailwindCSS  | <img src="https://skillicons.dev/icons?i=tailwind" width="18" />     | Utility-first CSS framework                       |
+| HTML5        | <img src="https://skillicons.dev/icons?i=html" width="18" />         | Web page structure and semantics                 |
+| CSS3         | <img src="https://skillicons.dev/icons?i=css" width="18" />          | Styling and layout                                |
+| VSCode       | <img src="https://skillicons.dev/icons?i=vscode" width="18" />       | Primary development environment                   |
+| Git          | <img src="https://skillicons.dev/icons?i=git" width="18" />          | Version control and collaboration tool            |
+| GitHub       | <img src="https://skillicons.dev/icons?i=github" width="18" />       | Code hosting, reviews, and CI/CD                  |
+| Figma        | <img src="https://skillicons.dev/icons?i=figma" width="18" />        | UI/UX design and prototyping                       |
 
 ---
 
