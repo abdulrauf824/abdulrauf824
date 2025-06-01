@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Abdul Rauf Khan
 
-I'm a dedicated **Full Stack Developer** with over 1.5 years of professional experience, specializing in modern web technologies including **Angular**, **React**, **Node.js**, and the **MERN stack**. I am passionate about building scalable, maintainable, and performant web applications that deliver excellent user experiences.
+I'm a dedicated Full Stack Developer specializing in modern web technologies including Angular, React, Node.js, and the MERN stack. I have worked on diverse projects ranging from healthcare management platforms to enterprise-grade web applications. My passion is building scalable, maintainable, and performant applications that deliver excellent user experiences.
 
 ---
 
