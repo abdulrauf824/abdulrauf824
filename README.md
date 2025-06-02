@@ -12,7 +12,7 @@ I'm a dedicated Full Stack Developer specializing in modern web technologies inc
 - 🤝 Strong believer in clean code, testing, and best practices to ensure software quality and reliability.  
 - 📫 Reach out anytime: [abdulraufkhan824@gmail.com](mailto:abdulraufkhan824@gmail.com)  
 - ⚡ Fun fact: I'm a night owl 🦉 — I find my creativity and focus peak during late hours.
-
+<!--
 I’ve contributed to projects like:
 
 - [PracticeManagementSystem](https://pms.hawkrevenue.com/#/login)  
@@ -20,13 +20,13 @@ I’ve contributed to projects like:
 - [VoiceAudit](https://uat.voiceauditai.com/)  
 - [TravelIndustrySolutions](https://travelindustrysolutions.com/)  
 - [ClearFunds](https://clearfunds.app/sign-in)
-
+-->
 
 
 ## 🚀 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=angular,react,nextjs,nodejs,mongodb,ts,js,tailwind,html,css,vscode,git,github,figma&perline=7" />
+  <img src="https://skillicons.dev/icons?i=angular,react,nextjs,nodejs,mongodb,ts,js,tailwind,html,css,vscode,git,github,figma&perline=7" /> 
 </p>
 
 ---
